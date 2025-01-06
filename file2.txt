@@ -1,8 +1,12 @@
 this is file 2 of git course
 adding more content to file two
 
+<<<<<<< HEAD
 add another line
 
 add note 
 
-2024 is here
+
+
+2025 new year
+
